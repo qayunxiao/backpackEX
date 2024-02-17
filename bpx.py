@@ -15,10 +15,9 @@ class BpxClient:
             'http': '',
             'https': ''
         }
-        # self.api_key = '6cI8nzpQK43FIbmqcmK4bZ+4IwRbG2p/vx3P7m9jFm8='
-        # self.api_secret = 'ADoPndu4+DHbj3AVSg0JiO3xOXRtcS5EJ0264iCSWQQ='
-        self.api_key = 'E+dYDjf60HeRvtz4inTU3Iue8A6TnOcTAqr3Wl5gJ6Q='
-        self.api_secret = 'Z5Q1+9RXGisx1F+Gz1wnw20iTyEfO6uIbsL7jKjjmCA='
+
+        self.api_key = ''
+        self.api_secret = ' '
         self.window = 5000
 
     def init(self, api_key, api_secret):
